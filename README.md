@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pumba128, but from unknow reasons people often call me Artur.
+- 👋 Hi, I’m @Pumba128, but for unknown reasons people often call me Artur.
 - 👀 I’m interested in backend programming and data science. 
 - 🌱 I’m currently learning Python. Investing all my intellectual resources to do so. So far? Satisfied. 
 - 💞️ I’m looking to collaborate on - not yet decided. 
