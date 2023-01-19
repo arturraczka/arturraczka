@@ -5,7 +5,7 @@ My name is **Artur** and I am all about in depth learning web dev and ***creatin
 I am a Math graduate with broad working experience and many in-demand soft and social skills.<br>
 Learning, learning, learning - this sums up my last year. This year I want to land my first job as junior web dev.
  
-My tech stack includes (but not only):
+My tech stack includes (but not only) :
 - Python/Django
 - MySQL
 - HTML
