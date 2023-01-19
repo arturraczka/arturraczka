@@ -1,10 +1,23 @@
-- 👋 Hi, I’m @Pumba128, but for unknown reasons people often call me Artur.
-- 👀 I’m interested in backend programming and data science. 
-- 🌱 I’m currently learning Python. Investing all my intellectual resources to do so. So far? Satisfied. 
-- 💞️ I’m looking to collaborate on: 1. Projects dedicated to fight earth pollution and global warming. 2. Projects dedicated to understanding genes and human genome. 
-- 📫 How to reach me - you can reach me here, at GitHub.
+Hi! Thanks for having a look at my page!
+My name is Artur and I am all about in depth learning web dev and **creating robust Django apps**.
 
-<!---
-Pumba128/Pumba128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+I am a Math graduate with broad working experience and many in-demand soft and social skills.
+Learning, learning, learning - this sums up my last year. This year I want to land my first job as junior web dev. 
+ 
+My tech stack includes (but not only):
+- Python/Django
+- MySQL
+- HTML
+- CSS
+- WordPress
+
+Every tech company is desperately looking for mid/senior developers and engineers.
+So, are you willing to create one of them? 
+
+---
+I'm crazy about getting things done. I don't keep ideas in a drawer. If something is worth doing - I go for it. If not, I let it go. 
+And I've spend my last few years on building healthy habits and discarding the bad ones. I love sauna and delibrate cold baths/showers.
+
+---
+Have a look at my projects and expect to see new coming soon.
