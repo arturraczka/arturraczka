@@ -6,7 +6,7 @@ I am a Math graduate with broad working experience and many in-demand soft and s
 Learning, learning, learning - this sums up my last year. This year I want to land my first job as junior web dev.
  
 My tech stack includes (but not only):
-- **Python/Django**
+- Python/Django
 - MySQL
 - HTML
 - CSS
