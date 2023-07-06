@@ -2,7 +2,7 @@ Hi! <br>
 <br>
 Thanks for visiting my readme. Below you can find relevant information about me and my journey into software development. <br>
 <br>
-For last year I heavily focused on learning web development in Python. At this moment I'm able of building and maintaining a clean and tested backend API for any popular frontend app like React or Next.js. <br>
+For last year I heavily focused on learning web development in Python. At this moment I'm able of building and maintaining a clean and tested backend side of a REST API for any popular frontend app like React or Next.js. <br>
 <br>
 I'm skilled with Python Django and DRF. <br>
 I use PyCharm as my main IDE.<br>
