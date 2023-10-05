@@ -1,12 +1,15 @@
 Hi! <br>
+Thanks for visiting my readme. <br>
+Below you can find relevant information about me and my journey into software development. <br>
 <br>
-Thanks for visiting my readme. Below you can find relevant information about me and my journey into software development. <br>
-<br>
-For last year I heavily focused on learning web development in Python. At this moment I'm able of building and maintaining a clean and tested backend side of a REST API for any popular frontend app like React or Next.js. <br>
+I am learning software development for over a year. At this moment I am working half-time outside the industry and improving my backend skills in the rest of my time. <br>
+Currently I am developing a full-stack application in Django (for warehouse and order management) for Wawelska Kooperatywa Spożywcza as a freelance. <br>
 <br>
 I'm skilled with Python Django and DRF. <br>
 I use PyCharm as my main IDE.<br>
-I know MySQL, PostgreSQL and I understand core principles of structuring a database. <br>
+I know MySQL/PostgreSQL essentials and I understand core principles of structuring a database. <br>
+I am familiar with HTML/CSS. <br>
+Recently I've learned Bash scritping basics. <br>
 <br>
 I focus on learning best practices for security, readability and performance. <br>
 And except technical skills I have excellent communication skills plus I am a very strong team player. <br>
