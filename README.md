@@ -16,4 +16,12 @@ And except technical skills I have excellent communication skills plus I am a ve
 <br>
 <br>
 Background and early years:<br>
-My very first contact with programming languages was at the Gdańsk University of Technology where I studied Math and Bioinformatics for 5 years. Amongst heavy theoretical math we were learning basics of C++, Perl, MySQL and statistical analysis in R. After graduation I pursited a dream of building my own company (not a startup) and project Poza Schematem was created. As Poza Schematem we were delivering professional-level and certified trainings to hundreds of students from biggest tech universities in Poland a year. Later, Poza Schematem was merged with a new company, BIM Partners, providing professional services and tranings for design companies from Architecture and Construction industry. During covid-19 pandemic and breakdown in our field of services I decided to take a break from office work and sold my shares to my business partners. During those years, apart from many other responsibilites, I was developing and deploying our professional webpages and platform with online courses with WordPress. <br>
+My very first contact with programming languages was at the Gdańsk University of Technology where I studied Math and Bioinformatics for 5 years. Amongst heavy theoretical math we were learning basics of C++, Perl, MySQL and statistical analysis in R. After graduation I pursited a dream of building my own company (not a startup) and project Poza Schematem was created. As Poza Schematem we were delivering professional-level and certified trainings to hundreds of students from biggest tech universities in Poland a year. Later, Poza Schematem was merged with a new company, BIM Partners, providing professional services and tranings for design companies from Architecture and Construction industry. During covid-19 pandemic and breakdown in our field of services I decided to take a break from office work and sold my shares to my business partners. During those years, apart from many other responsibilites, I was developing and deploying our professional webpages and platform with online courses using WordPress. <br>
+<br>
+<br>
+Some thoughts:<br>
+Learning to code in my thirties? <br>
+Yes. Better start late in something you like, than start early in something you don't. <br>
+<br>
+When I was a kid I loved to build structures with wooden and lego bricks.<br>
+Web dev is building structures with abstract bricks. How not to love it?? <br>
