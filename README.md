@@ -23,5 +23,5 @@ Some thoughts:<br>
 Learning to code in my thirties? <br>
 Yes. Better start late in something you like, than start early in something you don't. <br>
 <br>
-When I was a kid I loved to build structures with wooden and lego bricks.<br>
-Web dev is building structures with abstract bricks. How not to love it?? <br>
+When I was a kid I loved to build structures with wooden bricks and lego.<br>
+Web dev is like building structures with abstract bricks. That's so cool! <br>
