@@ -2,7 +2,7 @@ Hi! <br>
 Thanks for visiting my readme. <br>
 Below you can find relevant information about me and my journey into software development. <br>
 <br>
-I am learning software development for over a year. At this moment I am working half-time outside the industry and improving my backend skills in the rest of my time. <br>
+I am learning software development for a little more than 1,5 years. At this moment I am working half-time outside the industry and improving my backend skills in the rest of my time. <br>
 Currently I am developing a full-stack application in Django (for warehouse and order management) for Wawelska Kooperatywa Spożywcza as a freelance. <br>
 <br>
 I'm skilled with Python Django and DRF. <br>
